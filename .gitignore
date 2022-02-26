@@ -1,0 +1,5 @@
+.DS_Store
+data/
+scratch/
+.idea/
+.ipynb_checkpoints/
