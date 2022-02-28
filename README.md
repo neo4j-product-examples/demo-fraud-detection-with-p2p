@@ -9,5 +9,5 @@ This repository contains the notebook for reproducing the fraud detection analys
 - Part 4: Predicting Fraud Risk Accounts with Machine Learning
 
 
-# Anonymized Peer-to-Peer (P2P) data
+## Anonymized Peer-to-Peer (P2P) data
 To run the notebook you will need a copy of the dataset which is available in the form of a neo4j dump file [in this folder](https://drive.google.com/drive/folders/1LaNFObKnZb1Ty8T7kPLCYlXDUlHU7FGa?usp=sharing). The folder also contains a readme with more details on the dataset and directions for how to load the data into neo4j if you are unfamiliar with load process. The folder contains the ODC-BY license for the dataset as well (seperate from the license in this repository).
