@@ -1,7 +1,7 @@
 # Exploring Neo4j and Graph Data Science for Fraud Detection
 
 
-This repository contains the notebook for reproducing the fraud detection analysis covered in [this blog series](link tbd). To summarize, This analysis uses [Neo4j and Graph Data Science (GDS)](https://neo4j.com/product/graph-data-science/) to explore an anonymized data sample from a Peer-to-Peer (P2P) payment platform.  The notebook is split up into the following sections (mirroring the blog series) to cover various stages of the graph data science workflow:
+This repository contains the notebook for reproducing the fraud detection analysis covered in [this blog series](link tbd). To summarize, This analysis uses [Neo4j and Graph Data Science (GDS)](https://neo4j.com/docs/graph-data-science/current/) to explore an anonymized data sample from a Peer-to-Peer (P2P) payment platform.  The notebook is split up into the following sections (mirroring the blog series) to cover various stages of the graph data science workflow:
 
 - Part 1: Exploring Connected Fraud Data
 - Part 2: Resolving Fraud Communities using Entity Resolution and Community Detection
